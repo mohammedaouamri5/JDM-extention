@@ -1,0 +1,6 @@
+icons/icon512.png
+package-ignore.txt
+package.sh
+README.md
+release.zip
+.air.toml
